@@ -2,9 +2,9 @@
 international data science hackathon By Mckinsey.
 
 PROHACK2020 , Ouss_M team
-Our solution to the data science hackathon by McKinsey 'Prohack 2020' , team : Ouss_M , which was ranked 2nd in final leaderboard. There are 3 notebooks in this repo :
+Our solution to the data science hackathon by McKinsey 'Prohack 2020' , team : Ouss_M , which was ranked 2nd in final leaderboard/ 876 team (5800 participants). There are 3 notebooks in this repo :
 
-![](https://raw.githubusercontent.com/zackq88/prohack_datascience-hack/master/Capture1.PNG)
+![](https://raw.githubusercontent.com/zackq88/prohack_datascience-hack/master/Capture2.PNG)
 
 1. notebook1 : for data :EDA , the final df is the one we worked with in the second notebook
 2. notebook2 : more feature engineering + modeling " TASK 1 SOLUTION "
