@@ -1,8 +1,19 @@
 # prohack_datascience-hack
-international data science hackathon By Mckinsey.
+international data science hackathon By Mckinsey. (www.prohack.org)
 
 PROHACK2020 , Ouss_M team
-Our solution to the data science hackathon by McKinsey 'Prohack 2020' , team : Ouss_M , which was ranked 2nd in final leaderboard/ 876 team (5800 participants). There are 3 notebooks in this repo :
+Our solution to the data science hackathon by McKinsey 'Prohack 2020'.
+
+team : @Ouss_M.
+
+Members : 
+-Chennoufi mohamed soheib.
+-Terki anis.
+-Moussaoui younes.
+-Bouzit zakaria.
+-Mermoul oussama.
+
+, which was ranked 2nd in final leaderboard/ 876 team (5800 participants). There are 3 notebooks in this repo :
 
 ![](https://raw.githubusercontent.com/zackq88/prohack_datascience-hack/master/Capture2.PNG)
 
