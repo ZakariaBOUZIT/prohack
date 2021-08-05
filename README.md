@@ -1,7 +1,7 @@
 # PROHACK2020
-international data science hackathon By Mckinsey.**PROHACK2020** (www.prohack.org)
+data science hackathon By Mckinsey.**PROHACK2020** (www.prohack.org)
 
-And Here our solution which was ranked 2nd in final leaderboard/ 876 team (5800 participants).
+And Here our solution which was ranked 2nd in final leaderboard/ 876 team.
 
 **team : Ouss_M.** 
 
